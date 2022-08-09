@@ -1,27 +1,30 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sergey Morozov's CV
 ---
 # Sergey Morozov
 
-Linkedin: https://www.linkedin.com/in/sergey-morozov-055600194/
-email: sergey@morozov.top
-telegram: qweryt71
-instagram: morozov1sergey
+<div id="webaddress">
+  <a href="sergey@morozov.top">isaac@applesdofall.org</a>
+  | <a href="https://www.linkedin.com/in/sergey-morozov-055600194/">Linkedin</a>
+  | <a href="https://www.instagram.com/morozov1sergey/">Instagram(@morozov1sergey)</a>
+  | <a href="">Telegram(@qweryt71)</a>
+</div>
 
 ## Experience
 
-**Backend Developer** September 2018 - September 2021 App in the Air Moscow
+`September 2018 - September 2021`
+**Backend Developer** App in the Air, Moscow
 
-**Intern Python Packages Maintainer** summer 2017 LLC NTC IT ROSA Moscow
+`summer 2017`
+**Intern Python Packages Maintainer** LLC NTC IT ROSA Moscow
 
 ## Education
 
+`September 2015 - June 2019`
+**Bachelor’s Degree in Computer Science Software Engineering**
 National Research University Higher School of Economics, Moscow
 
-Bachelor’s Degree in Computer Science Software Engineering
-
-September 2015 - June 2019
 
 ## Skills
 
@@ -31,15 +34,6 @@ Tech: Docker, Kubernetes, MySQL/MariaDB, PostgreSQL, git, ACES, PySide, QML, Goo
 
 Software: Blender, Substance Designer, DaVinci Resolve, Nuke
 
-Operating Systems:
-
-- Arch Linux
-- Debian
-- Windows
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Operating Systems: Arch Linux, Debian, Windows
 
 
