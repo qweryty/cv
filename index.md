@@ -17,6 +17,14 @@ title: Sergey Morozov's CV
 **Backend Developer** 
 
 - App in the Air, Moscow
+  - Developed internal web based utils for technical support
+  - Developed a microservice for generating personalized achievements videos
+  - Developed a system to combine multiple data sources into a single unified API
+  - Developed a microservice for text search of flights using elasticsearch
+  - Developed a microservice for IMAP mail import
+  - Moving from monolith architechture to kubernetes microservices with gRPC communication
+  - Moving from python2 to python3
+  - Lot's of other smaller projects and bug fixes
 
 `summer 2017`
 **Intern Python Packages Maintainer** 
@@ -35,7 +43,7 @@ title: Sergey Morozov's CV
 
 **Languages:** Python, JavaScript, C/C++
 
-**Tech:** Docker, Kubernetes, MySQL/MariaDB, PostgreSQL, git, ACES, PySide, QML, Google Cloud, Google Datastore, gRPC
+**Tech:** Docker, Kubernetes, MySQL/MariaDB, PostgreSQL, git, ACES, PySide, QML, Google Cloud, Google Datastore, gRPC, Elasticsearch
 
 **Software:** Blender, Substance Designer, DaVinci Resolve, Nuke
 
