@@ -92,6 +92,10 @@ ul {
 	/*margin-top: -0.5em;*/
 }
 
+.list > ul {
+	list-style: disc;
+}
+
 /*uncomment to get dashes in the list*/
 /*li:before {
 	content: "-";
