@@ -8,7 +8,7 @@ title: Sergey Morozov's CV
   <a href="mailto:sergey@morozov.top">sergey@morozov.top</a>
   | <a href="https://www.linkedin.com/in/sergey-morozov-055600194/">Linkedin</a>
   | <a href="https://www.instagram.com/morozov1sergey/">Instagram(@morozov1sergey)</a>
-  | <a href="">Telegram(@qweryt71)</a>
+  | <a href="https://t.me/qwerytyt">Telegram(@qwerytyt)</a>
 </div>
 
 ## Experience
