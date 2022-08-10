@@ -45,7 +45,7 @@ title: Sergey Morozov's CV
 
 ## Skills
 
-**Languages:** Python, JavaScript, C/C++
+**Programming Languages:** Python, JavaScript, C/C++
 
 **Tech:** Docker, Kubernetes, MySQL/MariaDB, PostgreSQL, git, ACES, PySide, QML, Google Cloud, Google Datastore, gRPC, Elasticsearch
 
