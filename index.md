@@ -17,7 +17,7 @@ title: Sergey Morozov's CV
 **Backend Developer** 
 
 - App in the Air, Moscow
-  <div class="list">
+  <div class="list" markdown="1">
   
   - Developed internal web based utils for technical support
   - Developed a microservice for generating personalized achievements videos
