@@ -49,7 +49,7 @@ title: Sergey Morozov's CV
 
 **Tech:** Docker, Kubernetes, MySQL/MariaDB, PostgreSQL, git, ACES, PySide, QML, Google Cloud, Google Datastore, gRPC, Elasticsearch
 
-**Software:** Blender, Substance Designer, DaVinci Resolve, Nuke
+**Software:** Blender, Substance Designer, DaVinci Resolve, Nuke, Fusion 360
 
 **Operating Systems:** Arch Linux, Debian, Windows
 
