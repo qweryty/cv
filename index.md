@@ -16,19 +16,19 @@ title: Sergey Morozov's CV
 `Sep. 2018 - Sep. 2021`
 **Backend Developer** 
 
-App in the Air, Moscow
+- App in the Air, Moscow
 
 `summer 2017`
 **Intern Python Packages Maintainer** 
 
-LLC NTC IT ROSA Moscow
+- LLC NTC IT ROSA Moscow
 
 ## Education
 
 `Sep. 2015 - Jun. 2019`
 **Bachelor’s Degree in Computer Science Software Engineering**
 
-National Research University Higher School of Economics, Moscow
+- National Research University Higher School of Economics, Moscow
 
 
 ## Skills
