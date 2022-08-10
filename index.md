@@ -18,6 +18,7 @@ title: Sergey Morozov's CV
 
 - App in the Air, Moscow
   <div class="list">
+  
   - Developed internal web based utils for technical support
   - Developed a microservice for generating personalized achievements videos
   - Developed a system to combine multiple data sources into a single unified API
@@ -26,6 +27,7 @@ title: Sergey Morozov's CV
   - Moving from monolith architechture to kubernetes microservices with gRPC communication
   - Moving from python2 to python3
   - Lot's of other smaller projects and bug fixes
+  
   </div>
 
 `summer 2017`
