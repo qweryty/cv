@@ -37,6 +37,9 @@ ol, ul {
 .list > ul {
 	list-style: disc;
 }
+.full-width > p {
+	width: 65%;
+}
 blockquote, q {
 	quotes: none;
 }
