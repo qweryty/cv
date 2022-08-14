@@ -46,9 +46,9 @@ Ex-backend developer with strong technical skills and experience in creating int
 ## Education
 
 `Sep. 2015 - Jun. 2019`
-**Bachelor’s Degree in Computer Science Software Engineering**
+**[Bachelor’s Degree in Software Engineering](https://www.hse.ru/en/ba/se/)**
 
-- National Research University Higher School of Economics, Moscow
+- National Research University Higher School of Economics, faculty of Computer Science, Moscow
 
 
 ## Skills
