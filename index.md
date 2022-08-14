@@ -37,7 +37,7 @@ Ex-backend developer with strong technical skills and experience in creating int
 `summer 2017`
 **Intern Python Packages Maintainer** 
 
-- LLC NTC IT ROSA Moscow
+- LLC NTC IT ROSA, Moscow
 
 ## Education
 
