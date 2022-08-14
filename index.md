@@ -11,6 +11,10 @@ title: Sergey Morozov's CV
   | <a href="https://t.me/qwerytyt">Telegram(@qwerytyt)</a>
 </div>
 
+## Summary
+
+Ex-backend developer with strong technical skills and experience in creating internal tools. Looking for a technical director or pipeline engineer position where I can utilize my skills to support the creative team in creating new stories. 
+
 ## Experience
 
 `Sep. 2018 - Sep. 2021`
