@@ -13,7 +13,11 @@ title: Sergey Morozov's CV
 
 ## Summary
 
-- Ex-backend developer with strong technical skills and experience in creating internal tools. Looking for a technical director or pipeline engineer position where I can utilize my skills to support the creative team in creating new stories. 
+<div class="full-width" markdown="1">
+
+Ex-backend developer with strong technical skills and experience in creating internal tools. Looking for a technical director or pipeline engineer position where I can utilize my skills to support the creative team in creating new stories. 
+
+</div>
 
 ## Experience
 
@@ -49,12 +53,16 @@ title: Sergey Morozov's CV
 
 ## Skills
 
-- **Programming Languages:** Python, [Taichi](https://www.taichi-lang.org/), JavaScript, C/C++
+<div class="full-width" markdown="1">
 
-- **Tech:** Docker, Kubernetes, MySQL/MariaDB, PostgreSQL, git, ACES, PySide, QML, Google Cloud, Google Datastore, gRPC, Elasticsearch, NumPy
+**Programming Languages:** Python, [Taichi](https://www.taichi-lang.org/), JavaScript, C/C++
 
-- **Software:** Blender, Substance Designer, DaVinci Resolve, Nuke, Fusion 360
+**Tech:** Docker, Kubernetes, MySQL/MariaDB, PostgreSQL, git, ACES, PySide, QML, Google Cloud, Google Datastore, gRPC, Elasticsearch, NumPy
 
-- **Operating Systems:** Arch Linux, Debian, Windows
+**Software:** Blender, Substance Designer, DaVinci Resolve, Nuke, Fusion 360
+
+**Operating Systems:** Arch Linux, Debian, Windows
+
+</div>
 
 
