@@ -6,7 +6,7 @@ title: Sergey Morozov's CV
 
 <div id="webaddress">
   <a href="mailto:sergey@morozov.top">sergey@morozov.top</a>
-  | <a href="https://www.linkedin.com/in/sergey-morozov-055600194/">Linkedin</a>
+  | <a href=" www.linkedin.com/in/morozov1sergey">Linkedin(morozov1sergey)</a>
   | <a href="https://www.instagram.com/morozov1sergey/">Instagram(@morozov1sergey)</a>
   | <a href="https://t.me/qwerytyt">Telegram(@qwerytyt)</a>
 </div>
