@@ -96,6 +96,10 @@ ul {
 	list-style: disc;
 }
 
+.full-width > p {
+	width: 65%;
+}
+
 /*uncomment to get dashes in the list*/
 /*li:before {
 	content: "-";
