@@ -13,7 +13,11 @@ title: Sergey Morozov's CV
 
 ## Summary
 
+<div class="full-width" markdown="1">
+
 Ex-backend developer with strong technical skills and experience in creating internal tools. Looking for a technical director or pipeline engineer position where I can utilize my skills to support the creative team in creating new stories. 
+
+</div>
 
 ## Experience
 
