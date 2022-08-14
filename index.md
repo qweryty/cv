@@ -49,6 +49,7 @@ Ex-backend developer with strong technical skills and experience in creating int
 
 ## Skills
 
+<div class="full-width" markdown="1">
 **Programming Languages:** Python, [Taichi](https://www.taichi-lang.org/), JavaScript, C/C++
 
 **Tech:** Docker, Kubernetes, MySQL/MariaDB, PostgreSQL, git, ACES, PySide, QML, Google Cloud, Google Datastore, gRPC, Elasticsearch, NumPy
@@ -56,5 +57,5 @@ Ex-backend developer with strong technical skills and experience in creating int
 **Software:** Blender, Substance Designer, DaVinci Resolve, Nuke, Fusion 360
 
 **Operating Systems:** Arch Linux, Debian, Windows
-
+</div>
 
