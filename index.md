@@ -9,6 +9,7 @@ title: Sergey Morozov's CV
   | <a href=" www.linkedin.com/in/morozov1sergey">Linkedin(morozov1sergey)</a>
   | <a href="https://www.instagram.com/morozov1sergey/">Instagram(@morozov1sergey)</a>
   | <a href="https://t.me/qwerytyt">Telegram(@qwerytyt)</a>
+  | <a href="https://github.com/qweryty/">github(qweryty)</a>
 </div>
 
 ## Summary
@@ -42,6 +43,12 @@ Ex-backend developer with strong technical skills and experience in creating int
 **Intern Python Packages Maintainer** 
 
 - LLC NTC IT ROSA, Moscow
+
+## Personal projects
+
+- [Krita plugin to use stable diffusion](https://github.com/qweryty/image-ai-utils-krita)
+- [ACES config optimized for blender](https://github.com/qweryty/Blender-Optimized-ACES)
+- [Blender addon to make cloth simulation settings more predictable](https://github.com/qweryty/blender_cloth_physical_properties_compensation)
 
 ## Education
 
