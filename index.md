@@ -44,11 +44,13 @@ Ex-backend developer with strong technical skills and experience in creating int
 
 - LLC NTC IT ROSA, Moscow
 
-## Personal projects
+## Personal Projects
 
+<div class="list" markdown="1">
 - [Krita plugin to use stable diffusion](https://github.com/qweryty/image-ai-utils-krita)
 - [ACES config optimized for blender](https://github.com/qweryty/Blender-Optimized-ACES)
 - [Blender addon to make cloth simulation settings more predictable](https://github.com/qweryty/blender_cloth_physical_properties_compensation)
+</div>
 
 ## Education
 
