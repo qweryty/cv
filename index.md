@@ -16,6 +16,8 @@ title: Sergey Morozov's CV
 </div>
 </div>
 
+<div class="body" markdown="1">
+
 ## Summary
 
 <div class="full-width" markdown="1">
@@ -76,3 +78,4 @@ Ex-backend developer with strong technical skills and experience in creating int
 **Operating Systems:** Arch Linux, Debian, Windows
 
 </div>
+</div><!--class="body"-->
