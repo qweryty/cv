@@ -66,7 +66,7 @@ Ex-backend developer with strong technical skills and experience in creating int
 
 **Programming Languages:** Python, [Taichi](https://www.taichi-lang.org/), JavaScript, C/C++
 
-**Tech:** Docker, Kubernetes, MySQL/MariaDB, PostgreSQL, git, ACES, PySide, QML, Google Cloud, Google Datastore, gRPC, Elasticsearch, NumPy
+**Tech:** Docker, Kubernetes, MySQL/MariaDB, PostgreSQL, git, ACES, PyQt, PySide, QML, Google Cloud, Google Datastore, gRPC, Elasticsearch, NumPy
 
 **Software:** Blender, Substance Designer, DaVinci Resolve, Nuke, Fusion 360
 
