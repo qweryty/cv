@@ -1,0 +1,245 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* end of reset */
+
+code {
+  font: normal normal;
+  font-size: 90%;
+  /*line-height: 1em;*/
+  font-family: Monaco, Menlo, monospace, sans-serif;
+  color: #aaa;
+}
+
+p code {
+  position: absolute;
+  text-align: right;
+  right: -45%;
+}
+
+ul {
+  position: relative;
+  left: 25%;
+  width: 75%;
+  margin-bottom: 1.5em;
+}
+
+/*uncomment to get dashes in the list*/
+/*li:before {
+      content: "-";
+      position: relative;
+      left: -0.25em;
+  }*/
+
+.list > ul {
+  list-style: disc;
+}
+
+li {
+  /*second line indent*/
+  padding-left: 1.25em;
+  text-indent: -1.25em;
+  /*color: #777;*/
+}
+
+li ul {
+  position: relative;
+  left: 0;
+  width: 100%;
+  margin-top: 0.25em;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 400;
+  font-family: Avenir, Cousine, Verdana, sans-serif;
+  width: 80%;
+}
+
+#header {
+  text-align: center;
+  min-width: 10%;
+  background-color: #322638;
+}
+
+#sergey-morozov {
+  color: #f8f8f8;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 0.25em;
+  width: 100%;
+  text-align: left;
+  font-size: 3em;
+  line-height: 1em;
+  position: relative;
+}
+
+h1 + p {
+  /*subtitle*/
+  font-style: italic;
+  font-size: 110%;
+}
+
+h3 {
+  font-size: 1em;
+  line-height: 2em;
+  position: relative;
+  top: 1.7em;
+  text-align: right;
+  width: 20%;
+}
+
+a {
+  color: inherit;
+  /*text-decoration:none*/
+}
+
+a:hover {
+  color: #39f;
+}
+
+#webaddress {
+  padding-bottom: 0.5em;
+  min-height: 100%;
+  min-width: 100%;
+  margin-top: 1em;
+  position: relative;
+  color: #f8f8f8;
+  font-family: Monaco, Menlo, monospace, sans-serif;
+  font-size: 100%;
+  width: 65%;
+}
+
+strong {
+  font-weight: bold;
+}
+
+#projects {
+}

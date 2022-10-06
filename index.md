@@ -2,32 +2,36 @@
 layout: cv
 title: Sergey Morozov's CV
 ---
+
+<div markdown="1" id="header">
+
 # Sergey Morozov
 
 <div id="webaddress">
-  <a href="mailto:sergey@morozov.top">sergey@morozov.top</a>
-  | <a href=" www.linkedin.com/in/morozov1sergey">Linkedin(morozov1sergey)</a>
-  | <a href="https://www.instagram.com/morozov1sergey/">Instagram(@morozov1sergey)</a>
-  | <a href="https://t.me/qwerytyt">Telegram(@qwerytyt)</a>
-  | <a href="https://github.com/qweryty/">github(qweryty)</a>
+  <a href="mailto:sergey@morozov.top"><i class="fa-solid fa-envelope"></i> sergey@morozov.top</a>
+  | <a href=" www.linkedin.com/in/morozov1sergey"><i class="fa-brands fa-linkedin"></i> morozov1sergey</a>
+  | <a href="https://www.instagram.com/morozov1sergey/"><i class="fa-brands fa-instagram"></i> @morozov1sergey</a>
+  | <a href="https://t.me/qwerytyt"><i class="fa-solid fa-paper-plane"></i> @qwerytyt</a>
+  | <a href="https://github.com/qweryty/"><i class="fa-brands fa-square-github"></i> qweryty</a>
+</div>
 </div>
 
 ## Summary
 
 <div class="full-width" markdown="1">
 
-Ex-backend developer with strong technical skills and experience in creating internal tools. Looking for a technical director or pipeline engineer position where I can utilize my skills to support the creative team in creating new stories. 
+Ex-backend developer with strong technical skills and experience in creating internal tools. Looking for a <strong>technical director</strong> or <strong>pipeline engineer</strong> position where I can utilize my skills to support the creative team in creating new stories.
 
 </div>
 
 ## Experience
 
 `Sep. 2018 - Sep. 2021`
-**Backend Developer** 
+**Backend Developer**
 
 - App in the Air, Moscow
   <div class="list" markdown="1">
-  
+
   - Developed internal web based utils for technical support
   - Developed a microservice for generating personalized achievements videos
   - Developed a system to combine multiple data sources into a single unified API
@@ -36,11 +40,11 @@ Ex-backend developer with strong technical skills and experience in creating int
   - Moving from monolith architechture to kubernetes microservices with gRPC communication
   - Moving from python2 to python3
   - Lot's of other smaller projects and bug fixes
-  
+
   </div>
 
 `summer 2017`
-**Intern Python Packages Maintainer** 
+**Intern Python Packages Maintainer**
 
 - LLC NTC IT ROSA, Moscow
 
@@ -59,7 +63,6 @@ Ex-backend developer with strong technical skills and experience in creating int
 
 - National Research University Higher School of Economics, faculty of Computer Science, Moscow
 
-
 ## Skills
 
 <div class="full-width" markdown="1">
@@ -73,5 +76,3 @@ Ex-backend developer with strong technical skills and experience in creating int
 **Operating Systems:** Arch Linux, Debian, Windows
 
 </div>
-
-
