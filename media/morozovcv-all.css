@@ -126,6 +126,10 @@ table {
 
 /* end of reset */
 
+i {
+  margin-right: 0.5em;
+}
+
 code {
   font: normal normal;
   font-size: 90%;
@@ -137,7 +141,7 @@ code {
 ul {
   position: relative;
   left: 25%;
-  width: 75%;
+  width: 70%;
   margin-bottom: 1.5em;
 }
 
@@ -149,13 +153,13 @@ ul {
   }*/
 
 .list > ul {
+  margin-left: 1em;
   list-style: disc;
 }
 
 li {
   /*second line indent*/
-  padding-left: 1.25em;
-  text-indent: -1.25em;
+
   /*color: #777;*/
 }
 

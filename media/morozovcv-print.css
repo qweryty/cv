@@ -35,16 +35,16 @@ h2 {
   margin-left: 0.7em;
 }
 
+#webaddress a {
+  text-decoration: underline;
+}
+
 /* #header{
   margin: 0;
 }*/
 
 .body {
   margin-right: 4em;
-}
-
-#webaddress a {
-  /*text-decoration: none;*/
 }
 
 em {

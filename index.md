@@ -8,11 +8,11 @@ title: Sergey Morozov's CV
 # Sergey Morozov
 
 <div id="webaddress">
-  <a href="mailto:sergey@morozov.top"><i class="fa-solid fa-envelope"></i> sergey@morozov.top</a>
-  | <a href=" www.linkedin.com/in/morozov1sergey"><i class="fa-brands fa-linkedin"></i> morozov1sergey</a>
-  | <a href="https://www.instagram.com/morozov1sergey/"><i class="fa-brands fa-instagram"></i> @morozov1sergey</a>
-  | <a href="https://t.me/qwerytyt"><i class="fa-solid fa-paper-plane"></i> @qwerytyt</a>
-  | <a href="https://github.com/qweryty/"><i class="fa-brands fa-square-github"></i> qweryty</a>
+  <a href="mailto:sergey@morozov.top"><i class="fa-solid fa-envelope"></i>sergey@morozov.top</a>
+  | <a href=" www.linkedin.com/in/morozov1sergey"><i class="fa-brands fa-linkedin"></i>morozov1sergey</a>
+  | <a href="https://www.instagram.com/morozov1sergey/"><i class="fa-brands fa-instagram"></i>@morozov1sergey</a>
+  | <a href="https://t.me/qwerytyt"><i class="fa-solid fa-paper-plane"></i>@qwerytyt</a>
+  | <a href="https://github.com/qweryty/"><i class="fa-brands fa-square-github"></i>qweryty</a>
 </div>
 </div>
 
