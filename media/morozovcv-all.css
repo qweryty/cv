@@ -133,7 +133,6 @@ i {
 code {
   font: normal normal;
   font-size: 90%;
-  /*line-height: 1em;*/
   font-family: Monaco, Menlo, monospace, sans-serif;
   color: #aaa;
 }
@@ -145,22 +144,9 @@ ul {
   margin-bottom: 1.5em;
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
-      content: "-";
-      position: relative;
-      left: -0.25em;
-  }*/
-
 .list > ul {
   margin-left: 1em;
   list-style: disc;
-}
-
-li {
-  /*second line indent*/
-
-  /*color: #777;*/
 }
 
 li ul {
@@ -216,7 +202,6 @@ h3 {
 
 a {
   color: inherit;
-  /*text-decoration:none*/
 }
 
 a:hover,
@@ -239,7 +224,4 @@ a:focus {
 
 strong {
   font-weight: bold;
-}
-
-#projects {
 }

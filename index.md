@@ -9,7 +9,7 @@ title: Sergey Morozov's CV
 
 <div id="webaddress">
   <a href="mailto:sergey@morozov.top"><i class="fa-solid fa-envelope"></i>sergey@morozov.top</a>
-  | <a href=" www.linkedin.com/in/morozov1sergey"><i class="fa-brands fa-linkedin"></i>morozov1sergey</a>
+  | <a href="https://www.linkedin.com/in/morozov1sergey"><i class="fa-brands fa-linkedin"></i>morozov1sergey</a>
   | <a href="https://www.instagram.com/morozov1sergey/"><i class="fa-brands fa-instagram"></i>@morozov1sergey</a>
   | <a href="https://t.me/qwerytyt"><i class="fa-solid fa-paper-plane"></i>@qwerytyt</a>
   | <a href="https://github.com/qweryty/"><i class="fa-brands fa-square-github"></i>qweryty</a>
@@ -22,7 +22,7 @@ title: Sergey Morozov's CV
 
 <div class="full-width" markdown="1">
 
-Ex-backend developer with strong technical skills and experience in creating internal tools. Looking for a <strong>technical director</strong> or <strong>pipeline engineer</strong> position where I can utilize my skills to support the creative team in creating new stories.
+Ex-backend developer with strong technical skills and experience in creating internal tools. Looking for a **technical director** or **pipeline engineer** position where I can utilize my skills to support the creative team in creating new stories.
 
 </div>
 
