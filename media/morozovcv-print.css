@@ -1,0 +1,54 @@
+body {
+  font: normal normal 400;
+  font-size: 10.5pt;
+  line-height: 1.25em;
+  font-family: Avenir, Verdana, sans-serif;
+}
+
+p {
+  position: relative;
+  left: 25%;
+  margin-bottom: 0.7em;
+  margin-right: 0;
+  width: 50%;
+}
+
+p code {
+  position: absolute;
+  text-align: right;
+  right: -45%;
+}
+
+.full-width > p {
+  width: 75%;
+}
+
+h2 {
+  font-size: 1em;
+  color: #4f3c58;
+  margin-top: 1em;
+  position: relative;
+  top: 1.2em;
+  text-align: right;
+  width: 20%;
+  margin-left: 0.7em;
+}
+
+#webaddress a {
+  text-decoration: underline;
+}
+
+h1 {
+  padding-top: 1.1cm;
+}
+
+.body {
+  margin-top: 2em;
+  margin-right: 4em;
+  margin-left: 2em;
+}
+
+em {
+  font-style: normal;
+  color: #2d4e5e;
+}
