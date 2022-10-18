@@ -53,7 +53,7 @@ Ex-backend developer with strong technical skills and experience in creating int
 ## Personal Projects
 
 <div class="list" markdown="1">
-- [Krita plugin to use stable diffusion](https://github.com/qweryty/image-ai-utils-krita)
+- [Plugin for Krita painting program to use with Stable Diffusion and other AI image editing utils](https://github.com/qweryty/image-ai-utils-krita)
 - [ACES config optimized for blender](https://github.com/qweryty/Blender-Optimized-ACES)
 - [Blender addon to make cloth simulation settings more predictable](https://github.com/qweryty/blender_cloth_physical_properties_compensation)
 </div>
@@ -64,6 +64,11 @@ Ex-backend developer with strong technical skills and experience in creating int
 **[Bachelor’s Degree in Software Engineering](https://www.hse.ru/en/ba/se/)**
 
 - National Research University Higher School of Economics, faculty of Computer Science, Moscow
+
+`Apr. 2020`
+**[Deap Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/EFD2J45AS6GD)**
+
+- Coursera; by DeepLearning.AI
 
 ## Skills
 
