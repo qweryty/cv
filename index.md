@@ -22,11 +22,22 @@ title: Sergey Morozov's CV
 
 <div class="full-width" markdown="1">
 
-Ex-backend developer with strong technical skills and experience in creating internal tools. Looking for a **technical director**, **pipeline engineer** or similar position where I can utilize my skills to support the creative team in creating new stories.
+CG Production Engineer and ex-backend developer with strong technical skills and experience in creating and supporting internal tools.
 
 </div>
 
 ## Experience
+`Apr. 2023 - now`
+**CG Production Engineer**
+
+- Marza Animation Planet, Tokyo
+  <div class="list" markdown="1">
+  
+  - Developing new cg production pipeline
+  - Managing internal tools deployment, using docker containers
+  - Developing new internal tools
+  - Providing technical support for artists
+  - Technical research and development
 
 `Sep. 2018 - Sep. 2021`
 **Backend Developer**
