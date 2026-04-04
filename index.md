@@ -13,6 +13,7 @@ title: Sergey Morozov's CV
   | <a href="https://www.instagram.com/morozov1sergey/"><i class="fa-brands fa-instagram"></i>@morozov1sergey</a>
   | <a href="https://t.me/qwerytyt"><i class="fa-solid fa-paper-plane"></i>@qwerytyt</a><br/>
   <a href="https://github.com/qweryty/"><i class="fa-brands fa-square-github"></i>qweryty</a>
+  | <a href="https://www.imdb.com/name/nm16860597/"><i  class="fa-brands fa-imdb">imdb</a>
 </div>
 </div>
 
@@ -22,7 +23,7 @@ title: Sergey Morozov's CV
 
 <div class="full-width" markdown="1">
 
-CG Production Engineer and ex-backend developer with strong technical skills and experience in creating and supporting internal tools.
+CG Production Engineer/Pipeline Engineer and ex-backend developer with strong technical skills and experience in creating and supporting internal tools.
 
 </div>
 
@@ -34,10 +35,13 @@ CG Production Engineer and ex-backend developer with strong technical skills and
   <div class="list" markdown="1">
   
   - Developing new cg production pipeline
+  - Ensuring usd pipeline compatibility with current existing tools
   - Managing internal tools deployment, using docker containers
   - Developing new internal tools
-  - Providing technical support for artists
   - Technical research and development
+  - Setting up new guidelines for more effective development and communication processes
+
+  </div>
 
 `Sep. 2018 - Sep. 2021`
 **Backend Developer**
@@ -61,14 +65,6 @@ CG Production Engineer and ex-backend developer with strong technical skills and
 
 - LLC NTC IT ROSA, Moscow
 
-## Personal Projects
-
-<div class="list" markdown="1">
-- [Krita plugin to use stable diffusion](https://github.com/qweryty/image-ai-utils-krita)
-- [ACES config optimized for blender](https://github.com/qweryty/Blender-Optimized-ACES)
-- [Blender addon to make cloth simulation settings more predictable](https://github.com/qweryty/blender_cloth_physical_properties_compensation)
-</div>
-
 ## Education
 
 `Sep. 2015 - Jun. 2019`
@@ -80,13 +76,13 @@ CG Production Engineer and ex-backend developer with strong technical skills and
 
 <div class="full-width" markdown="1">
 
-**Programming Languages:** Python, [Taichi](https://www.taichi-lang.org/), JavaScript, C/C++
+**Programming Languages:** Python, C/C++, JavaScript
 
-**Tech:** Docker, Kubernetes, MySQL/MariaDB, PostgreSQL, git, ACES, PyQt, PySide, QML, Google Cloud, Google Datastore, gRPC, Elasticsearch, NumPy
+**Tech:** USD, Docker, Kubernetes, MySQL/MariaDB, PostgreSQL, HTTP, TCP, git, ACES, PyQt, PySide, QML, Google Cloud, Google Datastore, gRPC, Elasticsearch, NumPy
 
-**Software:** Blender, Substance Designer, DaVinci Resolve, Nuke, Fusion 360
+**Software:** Maya, Nuke, Houdini, Blender, Substance Designer, DaVinci Resolve, Fusion 360, FreeCAD, OnShape
 
-**Operating Systems:** Arch Linux, Debian, Windows
+**Operating Systems:** Rocky linux/CentOS, Arch Linux, Debian, Windows, macOS
 
 </div>
 </div><!--class="body"-->
