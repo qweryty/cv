@@ -10,10 +10,7 @@ title: Sergey Morozov's CV
 <div id="webaddress">
   <a href="mailto:sergey@morozov.top"><i class="fa-solid fa-envelope"></i>sergey@morozov.top</a>
   | <a href="https://www.linkedin.com/in/morozov1sergey"><i class="fa-brands fa-linkedin"></i>/in/morozov1sergey</a>
-  | <a href="https://www.instagram.com/morozov1sergey/"><i class="fa-brands fa-instagram"></i>@morozov1sergey</a>
-  | <a href="https://t.me/qwerytyt"><i class="fa-solid fa-paper-plane"></i>@qwerytyt</a><br/>
-  <a href="https://github.com/qweryty/"><i class="fa-brands fa-square-github"></i>qweryty</a>
-  | <a href="https://www.imdb.com/name/nm16860597/"><i  class="fa-brands fa-imdb">imdb</a>
+  | <a href="https://www.imdb.com/name/nm16860597/"><i  class="fa-brands fa-imdb"></i>imdb</a>
 </div>
 </div>
 
