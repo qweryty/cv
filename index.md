@@ -29,7 +29,7 @@ CG Production Engineer/Pipeline Engineer and ex-backend developer with strong te
 
 ## Experience
 `Apr. 2023 - now`
-**CG Production Engineer**
+**CG Production Engineer(Pipeline Engineer)**
 
 - Marza Animation Planet, Tokyo
   <div class="list" markdown="1">
