@@ -31,15 +31,12 @@ CG Production Engineer/Pipeline Engineer and ex-backend developer with strong te
 - Marza Animation Planet, Tokyo
   <div class="list" markdown="1">
   
-  - Successfully fixed, integrated and tested in production a new cg pipeline after all the previous maintainers left the company
-  - Build a compatibility layer with USD pipeline developed in parallel accordign to client specifications
-  - Updated internal environment manager software to make it easier to maintain and reduced loading time in some cases from minutes to fractions of a second
-  - Migrated existing code repositories to gitea and built automations to make the process easier for future maintainers
-  - Implemented pull request/review workflow guidelines to improve code quality and prevent existance of code without maintainers
-  - Improved team communication by establishing rules regarding the usage of Microsoft Teams group chats and proper usage of Microsoft Planner task tracker
-  - Established the use of internal tech wiki as well as automatic documentation page generation for individual modules
+  - Integrated a new cg pipeline
+  - Build a compatibility layer between internal and USD pipeline
+  - Improved loading time of project environments from minutes to fractions of a second
+  - Migrated existing code repositories to gitea and build a new service stack using docker compose
   - Developed a unified build environment using conda and docker containers
-  - Developed multiple smaller internal tools
+  - Introduced new team communication practices including pull request/review workflow and tech wiki
   - Connected a company with a new client after regularly participating in networking events
 
   </div>
@@ -57,7 +54,6 @@ CG Production Engineer/Pipeline Engineer and ex-backend developer with strong te
   - Developed a microservice for IMAP mail import
   - Moving from monolith architechture to kubernetes microservices with gRPC communication
   - Moving from python2 to python3
-  - Lot's of other smaller projects and bug fixes
 
   </div>
 
@@ -79,7 +75,7 @@ CG Production Engineer/Pipeline Engineer and ex-backend developer with strong te
 
 **Programming Languages:** Python, C/C++, JavaScript
 
-**Tech:** USD, Docker, Kubernetes, Conda, MySQL/MariaDB, PostgreSQL, HTTP, TCP, git, ACES, PyQt, PySide, QML, Google Cloud, Google Datastore, gRPC, Elasticsearch, NumPy
+**Tech:** USD, Docker, Kubernetes, Conda, MySQL/MariaDB, PostgreSQL, HTTP, TCP, git, OpenColorIO, ACES, PyQt, PySide, QML, Google Cloud, Google Datastore, gRPC, Elasticsearch, NumPy
 
 **Software:** Maya, Nuke, Houdini, Blender, Substance Designer, DaVinci Resolve, Fusion 360, FreeCAD, OnShape
 
