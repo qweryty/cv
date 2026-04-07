@@ -7,20 +7,25 @@ body {
 
 p {
   position: relative;
-  left: 25%;
+  left: 20%;
   margin-bottom: 0.7em;
   margin-right: 0;
-  width: 50%;
+  width: 60%;
 }
 
 p code {
   position: absolute;
   text-align: right;
-  right: -45%;
+  right: -25%;
 }
 
 .full-width > p {
   width: 75%;
+}
+
+ul {
+  width: 75%;
+  left: 20%;
 }
 
 h2 {
@@ -30,22 +35,29 @@ h2 {
   position: relative;
   top: 1.2em;
   text-align: right;
-  width: 20%;
-  margin-left: 0.7em;
+  width: 15%;
+  /* margin-left: 0.7em; */
+  margin-left: 0px;
 }
 
 #webaddress a {
   text-decoration: underline;
 }
+#webaddress {
+  padding-bottom: 0px;
+}
 
 h1 {
-  padding-top: 1.1cm;
+  padding-top: 0cm;
 }
 
 .body {
-  margin-top: 2em;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  /* margin-top: 2em;
   margin-right: 4em;
-  margin-left: 2em;
+  margin-left: 2em; */
 }
 
 em {

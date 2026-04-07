@@ -32,9 +32,9 @@ CG Production Engineer/Pipeline Engineer and ex-backend developer with strong te
   <div class="list" markdown="1">
   
   - Integrated a new cg pipeline
-  - Build a compatibility layer between internal and USD pipeline
+  - Built a compatibility layer between internal and USD pipeline
   - Improved loading time of project environments from minutes to fractions of a second
-  - Migrated existing code repositories to gitea and build a new service stack using docker compose
+  - Built a new service stack using docker compose
   - Developed a unified build environment using conda and docker containers
   - Introduced new team communication practices including pull request/review workflow and tech wiki
   - Connected a company with a new client after regularly participating in networking events
@@ -52,8 +52,7 @@ CG Production Engineer/Pipeline Engineer and ex-backend developer with strong te
   - Developed a system to combine multiple data sources into a single unified API
   - Developed a microservice for text search of flights using elasticsearch
   - Developed a microservice for IMAP mail import
-  - Moving from monolith architechture to kubernetes microservices with gRPC communication
-  - Moving from python2 to python3
+  - Migrating old backend from python2 to python3 and from monolith architechture to kubernetes microservices with gRPC communication
 
   </div>
 
